@@ -1,3 +1,5 @@
+#include <main.h>
+
 int main(void)
 {
     RBT_init_systems();
